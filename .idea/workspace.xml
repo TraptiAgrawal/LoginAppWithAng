@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc566cab-6cb5-48a4-b701-33ee4d5dad76" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server/package-lock.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -192,6 +191,11 @@
             <path>
               <item name="LoginAppWithAng" type="b2602c69:ProjectViewProjectNode" />
               <item name="LoginAppWithAng" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LoginAppWithAng" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoginAppWithAng" type="462c0819:PsiDirectoryNode" />
               <item name="server" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -255,12 +259,12 @@
       <workItem from="1528726286690" duration="40000" />
       <workItem from="1531217509281" duration="3732000" />
       <workItem from="1532941515174" duration="2301000" />
-      <workItem from="1533094070514" duration="2209000" />
+      <workItem from="1533094070514" duration="2302000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60812000" />
+    <option name="totallyTimeSpent" value="60905000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1364" height="726" extended-state="0" />
